@@ -2,4 +2,4 @@
 
 - Including some text handly
 
-1. I learned to push modifications to GitHub
+1. I learned how to push modifications to GitHub
